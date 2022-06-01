@@ -11,5 +11,6 @@ import $ from 'jquery';
 import './css/style.css';
 import './css/header.css';
 import './css/footer.css';
+import './sass/main.scss';
 
 $('body').css('background-color', "white");
