@@ -9,5 +9,7 @@ console.log(aa(9));
 // jquery
 import $ from 'jquery';
 import './css/style.css';
+import './css/header.css';
+import './css/footer.css';
 
-$('body').css('background-color', "red");
+$('body').css('background-color', "white");
